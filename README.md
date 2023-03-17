@@ -16,8 +16,9 @@
 ## Files
 ----
 ```bash
-Src         -> Old Source Files Used In Project.
+doc         -> Project Specific documents.
 Inc         -> Old Header Files Used In Project.
+Src         -> Old Source Files Used In Project.
 .ioc file   -> CubeIDE v1.12.0 Configuration Files
 ```
 
