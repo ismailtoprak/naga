@@ -1,0 +1,8 @@
+*
+!.gitignore
+!Src/
+!Src/*
+!Inc/
+!Inc/*
+!*.ioc
+!*.md
