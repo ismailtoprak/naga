@@ -22,6 +22,9 @@ Src         -> Old Source Files Used In Project.
 .ioc file   -> CubeIDE v1.12.0 Configuration Files
 ```
 
+## List Of Materials
+- Click [here](https://docs.google.com/spreadsheets/d/1wxy-Il5-b6qal-QTF8aaAUdgeuC_cPNaLctMvx8Ulks/edit?usp=sharing) to go to the List of Materials.
+
 ## Release Notes
 ----
 
