@@ -2,6 +2,7 @@
 !.gitignore
 !doc/
 !doc/*
+*.bkp
 !Src/
 !Src/*
 !Inc/
